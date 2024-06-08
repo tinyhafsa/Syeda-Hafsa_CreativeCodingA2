@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+/*button styled to remain hidden*/
+button {
+  background: transparent;
+  border: none;
+  border-radius: 50%;
+  padding: 30px;
+}
