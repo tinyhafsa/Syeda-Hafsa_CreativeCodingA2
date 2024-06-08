@@ -17,7 +17,7 @@ function preload () {
 
 //FUNCTION - SETUP
 function setup() {
-  createCanvas(600, windowHeight); //canvas size
+  createCanvas(windowWidth, windowHeight); //canvas size
   palette = [color("#E88D67"), color("#FF5F00"), color("#005C78")];
   
   textFont(font);
